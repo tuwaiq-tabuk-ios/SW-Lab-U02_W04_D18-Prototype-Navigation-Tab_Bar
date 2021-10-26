@@ -17,5 +17,12 @@ Prototype App with a Tab Bar with 4 Tab Bar items that show 4 different View Con
    -  The fourth item takes to a “view controller” that is embedded to a _navigation controller_
       - The _navigation controller_ has to buttons that when pressed by the user bring to a two different _view controllers_ 
 
+
+<img width="1440" alt="Screen Shot 1443-03-20 at 2 30 20 PM" src="https://user-images.githubusercontent.com/91871708/138869314-07c06486-c53c-4839-bbcd-8554939ea34a.png">
+
+
+
+
+
 ## DeadLine 
 Wednesday 27th October 9:15 am
