@@ -4,7 +4,7 @@ Prototype App with a Tab Bar with 4 Tab Bar items that show 4 different View Con
 ## Topics
 1. **_Tag Bar Controller_**
 2. Create _transition relationship segues_ between _Tab Bar Controllers_ and _view controllers_. 
-3. Create _transition_ relationship segues_ between -Tab Bar Controllers and _navigation controllers_ 
+3. Create _transition relationship segues_ between _Tab Bar Controllers_ and _navigation controllers_ 
 4. Make _Tag Bar Controller_ the _initial view controller_
 5. Embed _view controllers_  inside _navigation controllers_ 
 6. Customize the _tab bar item_’s text and image 
