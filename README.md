@@ -19,3 +19,7 @@ Prototype App with a Tab Bar with 4 Tab Bar items that show 4 different View Con
 
 ## DeadLine 
 Wednesday 27th October 9:15 am
+![Simulator Screen Shot - iPhone 12 - 2021-10-26 at 14 25 21](https://user-images.githubusercontent.com/91871608/138868725-ef45ed44-271f-4dcb-bf70-5acb7d9c8855.png)
+![Simulator Screen Shot - iPhone 12 - 2021-10-26 at 14 25 25](https://user-images.githubusercontent.com/91871608/138868732-04e063d3-2292-4890-af0a-25a95ab1e0cc.png)
+![Simulator Screen Shot - iPhone 12 - 2021-10-26 at 14 25 28](https://user-images.githubusercontent.com/91871608/138868738-24c97c84-4ba6-4035-afa1-beed382d1bc1.png)
+![Simulator Screen Shot - iPhone 12 - 2021-10-26 at 14 25 31](https://user-images.githubusercontent.com/91871608/138868743-a4ff5869-aada-490c-abec-db6352b77d81.png)
